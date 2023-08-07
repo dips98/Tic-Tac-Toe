@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 Building game with angular 
-Using
+Using angular cli
